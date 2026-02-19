@@ -3,80 +3,62 @@
         {
             "imgPath": "img/cars/04_NGV-Exterior-Desktop.webp",
             "imgCar": "Aston Martin",
-            "description": "Loch Ard Gorge",
-            "rating": "01/01/2016"
+            "description": "British Exellence",
+            "rating": "8.8/10"
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgCar": "Austria",
-            "description": "Austrian chapel",
-            "rating": "01/02/2016"
+            "imgPath": "img/cars/918 Spyder mittig.jpg",
+            "imgCar": "Porsche 918 Spider",
+            "description": "German Hybrid Power",
+            "rating": "10/10"
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgCar": "Paris",
-            "description": "Eiffel Tower",
-            "rating": "01/03/2016"
+            "imgPath": "img/cars/2015-jaguar-f-type-r-coupe-test-review-car-and-driver-photo-637401-s-original.avif",
+            "imgCar": "Jaguar F-Type",
+            "description": "Supercharged V8",
+            "rating": "6.7/10"
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgCar": "Greece",
-            "description": "Greek coastline",
-            "rating": "01/04/2016"
+            "imgPath": "img/cars/3943499_orig.jpg",
+            "imgCar": "Lexus LFA",
+            "description": "The Pinacle of Japanese Performence",
+            "rating": "9/10"
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgCar": "Hungary",
-            "description": "Budapest skyline",
-            "rating": "01/05/2016"
+            "imgPath": "img/cars/Ferrari_Testarossa_evo_01_hvqdc8.webp",
+            "imgCar": "Ferrari Testarossa",
+            "description": "Classic 80s Supercar",
+            "rating": "5/10"
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgCar": "India",
-            "description": "Taj Mahal",
-            "rating": "01/06/2016"
+            "imgPath": "img/cars/images (2).jpg",
+            "imgCar": "C6 Corvette",
+            "description": "American V8 Power",
+            "rating": "9.8/10"
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgCar": "Italy",
-            "description": "Venice",
-            "rating": "01/07/2016"
+            "imgPath": "img/cars/LC3_6446-scaled-e1726602093767.avif",
+            "imgCar": "Nissan GTR Skyline",
+            "description": "Fast and Furious",
+            "rating": "5.7/10"
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgCar": "Japan",
-            "description": "Hirosaki Castle",
-            "rating": "01/08/2016"
+            "imgPath": "img/cars/McLaren_Speedtail_for_Sale.webp",
+            "imgCar": "McLaren Speedtail",
+            "description": "Futeristic, Speedy, and Record-Breaking",
+            "rating": "5.5/10"
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgCar": "South Korea",
-            "description": "Seoul",
-            "rating": "01/09/2016"
+            "imgPath": "img/cars/Porsche-911-Turbo-17.webp",
+            "imgCar": "Porsche 911",
+            "description": "Vintage Design, Super Performance",
+            "rating": "9.9/10"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgCar": "Norway",
-            "description": "Countryside mountains",
+            "imgPath": "img/cars/row_0410_copy.webp",
+            "imgCar": "Ford GT",
+            "description": "Designed with the Focus to win Le Mans",
             "rating": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgCar": "Switzerland",
-            "description": "Lake castle",
-            "rating": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgCar": "Thailand",
-            "description": "Beachline",
-            "rating": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgCar": "Turkey",
-            "description": "Istanbul",
-            "rating": "01/13/2016"
         }
   ]
 }
