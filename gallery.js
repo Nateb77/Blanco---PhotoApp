@@ -7,15 +7,17 @@ $(document).ready(() => {
   $('.details').hide() // Hide details initially
 
   // Call a function here to start the timer for the slideshow
-
+  $('.callFunction').startTimer()
   // Select the moreIndicator button and add a click event to:
+  $('moreIndicator').click()
   // - toggle the rotation classes (rot90 and rot270)
+  ToggleEvent(rot90 + rot270)
   // - slideToggle the visibility of the .details section
-
+  $('slideToggle').details
   // Select the "Next Photo" button and add a click event to call showNextPhoto
-
+  $("Next Photo").click$('showNextPhoto')
   // Select the "Previous Photo" button and add a click event to call showPrevPhoto
-
+  $("Previous Photo").click$('showPrevPhoto')
   // Call fetchJSON() to load the initial set of images
   fetchJSON()
 })
