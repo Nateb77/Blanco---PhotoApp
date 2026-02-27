@@ -59,3 +59,4 @@ function showPrevPhoto () {
 function startTimer () {
   startTimer('showNextPhoto')= setInterval
 }
+.
